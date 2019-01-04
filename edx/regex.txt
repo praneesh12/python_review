@@ -1,0 +1,10 @@
+NAMES         : Phone Number :: Email
+
+Mr Schafer 3016821437 
+Mr. Smith  3011234567 
+Ms. Davis  201-980-7786
+Mrs. Robinson 601-890-0912
+Mr. T         201-345-1439
+
+coreyMSchafer@gmail.com,corey.schafer@umd.edu,corey-321-schafer@datasociety.com,
+corey33as@work-more.net
