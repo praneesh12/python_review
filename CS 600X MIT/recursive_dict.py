@@ -12,7 +12,7 @@ def fib_efficient(fibDict, n):
 		return fibDict[n]
 
 	else:
-		ans =  fib_efficient[fibDict, n-1] + fib_efficient[fibDict, n-2]
+		ans =  fib_efficient(fibDict, n-1) + fib_efficient(fibDict, n-2)
 		fibDict[n] = ans
 		return ans
 
